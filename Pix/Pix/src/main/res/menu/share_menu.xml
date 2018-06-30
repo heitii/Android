@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title = "Menu">
+        <menu>
+            <item android:title="Share a photo" android:id="@+id/share" android:icon="@drawable/share"/>
+            <item android:title="Your profile" android:id="@+id/profile" android:icon="@drawable/user"/>
+            <item android:title="Log out" android:id="@+id/logout" android:icon="@drawable/exit"/>
+        </menu>
+    </item>
+</menu>
